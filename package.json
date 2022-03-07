@@ -1,0 +1,10 @@
+{
+  "name": "front-end-share",
+  "version": "1.0.0",
+  "description": "'前端畅聊'",
+  "main": "index.js",
+  "repository": "https://github.com/huafengThunder/front-end-share.git",
+  "author": "lhf",
+  "license": "ISC",
+  "private": false
+}
